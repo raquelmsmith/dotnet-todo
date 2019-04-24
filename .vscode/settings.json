@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "/Users/RaquelSmith/Documents/Sites/AspNetCoreTodo/AspNetCoreTodo/app.db",
+            "dialect": "SQLite",
+            "name": "Todo"
+        }
+    ]
+}
